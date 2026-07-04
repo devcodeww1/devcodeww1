@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**devcodeww1/devcodeww1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Effect -->
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+Frontend developer focused on clean code, modern web design, and elegant digital layouts.
+
+- 🎨 Passionate about user interface design and custom layouts.
+- 🛠️ Always exploring new frontend techniques, one pixel at a time.
+- 🔒 Building open-source projects safely and securely.
+
+---
+
+### 🚀 My Tech Stack
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
