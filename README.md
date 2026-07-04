@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving Hand Banner" />
+  <img height="150" src="https://giphy.com" alt="Waving Hand Banner" />
 </div>
 
 <h1 align="center">Hello! 👋</h1>
@@ -16,25 +16,10 @@ I'm currently learning advanced JavaScript logic, custom responsive design grids
 In my free time, I love customizing my developer workspace, building stylesheets, and exploring open-source projects.
 </p>
 
-<h3 align="left">🛠️ Languages and Tools I Use</h3>
-
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://jsdelivr.net" height="40" alt="html5" />&nbsp;&nbsp;
-  <!-- CSS3 -->
-  <img src="https://jsdelivr.net" height="40" alt="css3" />&nbsp;&nbsp;
-  <!-- JavaScript -->
-  <img src="https://jsdelivr.net" height="40" alt="javascript" />&nbsp;&nbsp;
-  <!-- Git -->
-  <img src="https://jsdelivr.net" height="40" alt="git" />&nbsp;&nbsp;
-  <!-- Linux -->
-  <img src="https://jsdelivr.net" height="40" alt="linux" />
-</p>
-
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 Visual Analytics Dashboard</h3>
 
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Micro-Mic's Coding Analytics" />
 </p>
